@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Sanket/IdeaProjects/WebAutomationProject/src/test/java/com/WebAutomationProject/SeleniumBasic/ex_03.java"><classes><class name="com.WebAutomationProject.SeleniumBasic.ex_03"><methods><include name="setUp"/></methods></class></classes></test></suite>

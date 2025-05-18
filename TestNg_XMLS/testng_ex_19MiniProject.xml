@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Sanket/IdeaProjects/WebAutomationProject/src/test/java/com/WebAutomationProject/SeleniumBasic/ex_10_miniProject.java">
+        <classes>
+            <class name="com.WebAutomationProject.SeleniumBasic.ex_10_miniProject">
+                <methods>
+                    <include name="VerifyErrorMessage"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

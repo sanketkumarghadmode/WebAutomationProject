@@ -1,0 +1,11 @@
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Sanket/IdeaProjects/WebAutomationProject/src/test/java/com/WebAutomationProject/SeleniumBasic/SampleTest.java">
+        <classes>
+            <class name="com.WebAutomationProject.SeleniumBasic.SampleTest_01">
+                <methods>
+                    <include name="startBrowser"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
